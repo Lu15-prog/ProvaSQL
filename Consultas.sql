@@ -1,3 +1,5 @@
+---PROVA LUANA CRUZ - DATA: 20/08/2025--
+
 --- CONSULTAS:
 --1)Buscar o nome e ano dos filmes
 SELECT Nome, Ano
