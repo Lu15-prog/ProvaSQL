@@ -1,3 +1,5 @@
+---PROVA LUANA CRUZ - DATA: 20/08/2025--
+
 INSERT INTO Atores (IdAtor, PrimeiroNome, UltimoNome, Genero) VALUES
 (1, 'João', 'Silva', 'M'),
 (2, 'Maria', 'Oliveira', 'F'),
